@@ -1,3 +1,20 @@
+.container {
+  text-align: center;
+  background-color: #374F6A;
+  padding: 20px;
+  color:#EDEFF0;
+  border-radius: 10px;
+}
+.container a {
+  text-decoration: none;
+  color:#70C56E;
+}
+
+.icns {
+  margin-left: 20px;
+}
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
